@@ -1,8 +1,6 @@
 ## S.E.C. Enforcement Data
 
-This file contains 2,158 enforcement actions initiated by The Securities and Exchange Commission from May 18, 2015 to September 30, 2018 -- a period covering the final 88 weeks of the Obama administration and the first 88 weeks of the Trump administration.
-
-Here is the story that goes with this data, and our full methodology.
+This file contains 2,158 enforcement actions initiated by the Securities and Exchange Commission from May 18, 2015, to Sept. 30, 2018 — a period covering the final 88 weeks of the Obama administration and the first 88 weeks of the Trump administration.
 
 The file contains the following fields:
 
@@ -39,4 +37,4 @@ The file contains the following fields:
 **full_amount:** This is the total of all money ordered paid as a result of the S.E.C. action. This is the figure commonly used by the agency.
 
 
-The data was compiled by Robert Gebeloff, Sylvia Carnham O'Regan, Gilda DiCarli and Daniela Porat. Please contact [Gebeloff](mailto:rgebeloff@nytimes.com?subject=SEC%20Project) with questions and comments.
+The data was compiled by Robert Gebeloff, Sylvia Carnham O'Regan, Gilda DiCarli and Daniela Porat. Please contact [Mr. Gebeloff](mailto:rgebeloff@nytimes.com?subject=SEC%20Project) with questions and comments.
