@@ -2,7 +2,7 @@
 
 This file contains 2,158 enforcement actions initiated by the Securities and Exchange Commission from May 18, 2015, to Sept. 30, 2018 — a period covering the final 88 weeks of the Obama administration and the first 88 weeks of the Trump administration.
 
-See: [The story] (https://www.nytimes.com/2018/11/03/us/trump-sec-doj-corporate-penalties.html) and [the full methodology] (https://www.nytimes.com/2018/11/03/business/trump-corporate-penalties-methodology.html);
+See: [The story](https://www.nytimes.com/2018/11/03/us/trump-sec-doj-corporate-penalties.html) and [the full methodology](https://www.nytimes.com/2018/11/03/business/trump-corporate-penalties-methodology.html);
 
 The file contains the following fields:
 
