@@ -39,4 +39,4 @@ The file contains the following fields:
 **full_amount:** This is the total of all money ordered paid as a result of the S.E.C. action. This is the figure commonly used by the agency.
 
 
-The data was compiled by Robert Gebeloff, Sylvia Carnham O'Regan, Gilda DiCarli and Daniela Porat. Please contact [Mr. Gebeloff](mailto:rgebeloff@nytimes.com?subject=SEC%20Project) with questions and comments.
+The data was compiled by Robert Gebeloff, Sylvia Varnham O'Regan, Gilda DiCarli and Daniela Porat. Please contact [Mr. Gebeloff](mailto:rgebeloff@nytimes.com?subject=SEC%20Project) with questions and comments.
